@@ -1,0 +1,6 @@
+framework module HelloFramework {
+  umbrella header "HelloFramework.h"
+
+  export *
+  module * { export * }
+}
